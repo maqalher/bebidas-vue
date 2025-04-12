@@ -58,3 +58,20 @@ instalar headlessui
 
 instalalr iconos
     npm i @heroicons/vue
+
+
+https://openrouter.ai/ para ia
+    https://openrouter.ai/settings/keys
+
+crear .env y agrear VITE_OPENROUTER_KEY
+
+https://openrouter.ai/docs/community/frameworks#vercel-ai-sdk
+    npm install @openrouter/ai-sdk-provider
+
+    https://openrouter.ai/models
+
+
+crear ia.js en lib
+
+install para streamText
+    npm i ai
